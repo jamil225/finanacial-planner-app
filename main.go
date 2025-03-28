@@ -10,13 +10,25 @@ import (
 	"path/filepath"
 	"time"
 
+	"github.com/joho/godotenv"
 	"github.com/openai/openai-go"
 	"github.com/openai/openai-go/option"
 )
 
 func main() {
+	// Load .env file
+	if err := godotenv.Load(); err != nil {
+		log.Fatal("Error loading .env file")
+	}
+
+	// Get API key from environment
+	apiKey := os.Getenv("OPENAI_API_KEY")
+	if apiKey == "" {
+		log.Fatal("OPENAI_API_KEY environment variable is not set")
+	}
+
 	ctx := context.Background()
-	client := openai.NewClient(option.WithAPIKey("your-api-key-here"))
+	client := openai.NewClient(option.WithAPIKey(apiKey))
 
 	//Step 1 crete or get Assistants with file search tool
 	assistant := createNewAssistant(client, ctx) // list all  fist
