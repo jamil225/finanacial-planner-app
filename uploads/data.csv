@@ -1,0 +1,11 @@
+Category,Amount,Type,Date,Description
+Income,5000,Income,2024-03-01,Monthly Salary
+Rent,1500,Expense,2024-03-01,Monthly Rent
+Utilities,200,Expense,2024-03-05,Water, Electricity, Gas
+Groceries,400,Expense,2024-03-10,Weekly Groceries
+Transportation,150,Expense,2024-03-15,Gas and Public Transport
+Insurance,300,Expense,2024-03-20,Health and Car Insurance
+Entertainment,200,Expense,2024-03-25,Restaurants and Activities
+Savings,1000,Income,2024-03-30,Monthly Savings
+Emergency Fund,500,Income,2024-03-30,Emergency Fund Contribution
+Debt Payment,400,Expense,2024-03-31,Credit Card Payment

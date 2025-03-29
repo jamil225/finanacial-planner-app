@@ -1,0 +1,35 @@
+Sample Financial Statement
+Date: March 27, 2025
+
+Income:
+- Monthly Salary: $5,000
+- Freelance Work: $1,500
+Total Monthly Income: $6,500
+
+Expenses:
+- Rent: $2,000
+- Utilities: $300
+- Groceries: $500
+- Transportation: $200
+- Entertainment: $300
+- Savings: $1,000
+Total Monthly Expenses: $4,300
+
+Net Monthly Income: $2,200
+
+Savings Goals:
+- Emergency Fund: $10,000 (Current: $5,000)
+- Retirement: 15% of monthly income
+- Vacation Fund: $3,000 (Current: $1,500)
+
+Investment Portfolio:
+- Stocks: $15,000
+- Bonds: $10,000
+- Cash: $5,000
+Total Portfolio Value: $30,000
+
+Financial Goals:
+1. Build emergency fund to $10,000
+2. Increase retirement contributions
+3. Save for vacation
+4. Diversify investment portfolio 
